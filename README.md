@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I’m Nikki 👋
 
-<!--
-**nikkizahhh1/nikkizahhh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student focused on machine learning, cloud systems, and full-stack development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🧠 Honors Thesis – Skin Lesion Classification
+Research on whether data augmentation can replace larger datasets in CNN training for dermatology image classification.  
+🔗 [View Project](PASTE_LINK_HERE)
+
+### 📅 ShiftSync
+Full-stack scheduling app designed to simplify shift coordination and availability tracking.  
+🔗 [View Project](PASTE_LINK_HERE)
+
+### 📓 Chronicle
+Personal productivity / journaling app focused on structured daily reflection and tracking.  
+🔗 [View Project](PASTE_LINK_HERE)
+
+### ☁️ Cloud Club Smart Gallery
+AI-powered gallery system built for organizing and classifying cloud club assets and media.  
+🔗 [View Project](PASTE_LINK_HERE)
+
+---
+
+## 🔧 Interests
+Machine Learning • Cloud Computing (AWS) • Full-stack Development • Systems Design
+
+---
+
+Thanks for visiting 👋
