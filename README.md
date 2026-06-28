@@ -11,7 +11,6 @@ Full-stack scheduling app designed to simplify shift coordination and availabili
 
 ### 🧠 Honors Thesis – Skin Lesion Classification
 Research on whether data augmentation can replace larger datasets in CNN training for dermatology image classification.  
-Read my Prospectus!
 🔗 [View Project](https://github.com/nikkizahhh1/Data-Augmentation-in-Skin-Lesion-Classification--Honors-Thesis/blob/main/Zahedi%2CNikki%20Prospectus.pdf.md)
 
 ### 📓 Chronicle
